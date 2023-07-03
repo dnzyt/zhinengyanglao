@@ -17,6 +17,10 @@ const router = createBrowserRouter([{
   errorElement: <ErrorPage />,
   children: [
     {
+      index: true,
+      element: <YiYang />
+    },
+    {
       path: 'yiyang',
       element: <YiYang />
     }, {
