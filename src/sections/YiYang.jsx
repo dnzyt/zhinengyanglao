@@ -89,9 +89,6 @@ export default function YiYang() {
                     </div>
                 </div>
             </div>
-            <footer className="py-5 text-center text-body-secondary bg-body-tertiary">
-                <p>版权所有 <a href="https://getbootstrap.com/">智能养老</a> by <a href="https://twitter.com/mdo">@李湘江</a>.</p>
-            </footer>
         </>
 
     )
