@@ -7,7 +7,7 @@ export default function PiFuKe() {
         <div className="container py-5">
           <h1 className="text-4xl font-bold">中医皮肤科</h1>
           <h1 className="text-lg py-2 font-semibold">伊彩虹</h1>
-          <p className='text-sm mb-5'>北京宝一趟 院长</p>
+          <p className='text-sm mb-5'>北京宝一堂 院长</p>
           <div className='flex flex-row justify-center p-4'>
             <div className='basis-1/2'>
               <p className="text-md mb-3">中国治癣第一人</p>
@@ -29,8 +29,9 @@ export default function PiFuKe() {
             </div>
           </div>
 
-          <h1 className='text-md mb-2'>主治疾病</h1>
+          <h1 className='text-md mb-2 font-semibold'>主治疾病</h1>
           <p>银屑病、顽固性湿疹、痤疮、脂溢性皮炎、体股癣、手足癣、头癣、瘙痒</p>
+          <p>老年皮肤病治疗：内外兼顾、安全、特性 -- 纯中药，杜绝任何激素</p>
         </div>
       </div>
       <div className='flex flex-row justify-center border-t-2 p-4'>
@@ -61,7 +62,6 @@ export default function PiFuKe() {
             <p className="card-text">视频3</p>
           </div>
         </div>
-
       </div>
     </>
   )

@@ -31,8 +31,12 @@ export default function GangChangKe() {
                         </div>
                     </div>
 
-                    <h1 className='text-md mb-2'>主要成就</h1>
+                    <h1 className='text-md mb-2 font-semibold'>主要成就</h1>
                     <p>主编出版肛肠专科书籍两部，参编肛肠专科书籍两部，发表国家级论文十余篇，参加省部级以上课题9项，获得发明专利一项，使用新型专利两项，获省市以上科研成果奖4项，其中获辽宁省科技进步三等奖两项，获辽宁省自然科学学术成果三等奖一项，获辽宁省自然科学学术成果奖学术论文三等奖一项，获中国中医药促进会科学进步奖二等奖一项</p>
+                    <h1 className='text-md mt-6 mb-2 font-semibold'>主治疾病</h1>
+                    <p>痔、瘘、肠炎、便秘、息肉、盆底疾病、肿瘤、难愈创面</p>
+                    <p>老年便秘治疗：安全、独特、有效--国内唯一恢复肠功能治疗</p>
+                
                 </div>
             </div>
             <div className='flex flex-row justify-center border-t-2 p-4'>
